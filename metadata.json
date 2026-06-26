@@ -1,0 +1,6 @@
+{
+  "name": "행복나눔공동체",
+  "description": "전통 상부상조의 현대적 재해석, 행복나눔공동체 - Pumassi Mutual Aid Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
